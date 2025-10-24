@@ -1,0 +1,2498 @@
+[
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 4
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100021",
+      "editorial_team_abbr": "Phi",
+      "editorial_team_full_name": "Philadelphia Eagles",
+      "editorial_team_key": "nfl.t.21",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/philadelphia/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/phi.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/phi.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Philadelphia",
+        "ascii_last": null,
+        "first": "Philadelphia",
+        "full": "Philadelphia",
+        "last": null
+      },
+      "player_id": 100021,
+      "player_key": "359.p.100021",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 209.54
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/philadelphia/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 9
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100022",
+      "editorial_team_abbr": "Ari",
+      "editorial_team_full_name": "Arizona Cardinals",
+      "editorial_team_key": "nfl.t.22",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/arizona/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/ari_3.jpg"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/ari_3.jpg",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Arizona",
+        "ascii_last": null,
+        "first": "Arizona",
+        "full": "Arizona",
+        "last": null
+      },
+      "player_id": 100022,
+      "player_key": "359.p.100022",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 235.98
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/arizona/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 8
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100023",
+      "editorial_team_abbr": "Pit",
+      "editorial_team_full_name": "Pittsburgh Steelers",
+      "editorial_team_key": "nfl.t.23",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/pittsburgh/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/pit.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/pit.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Pittsburgh",
+        "ascii_last": null,
+        "first": "Pittsburgh",
+        "full": "Pittsburgh",
+        "last": null
+      },
+      "player_id": 100023,
+      "player_key": "359.p.100023",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 171.26
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/pittsburgh/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 11
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100024",
+      "editorial_team_abbr": "LAC",
+      "editorial_team_full_name": "Los Angeles Chargers",
+      "editorial_team_key": "nfl.t.24",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/la-chargers/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sdg3.jpg"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sdg3.jpg",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Los Angeles",
+        "ascii_last": null,
+        "first": "Los Angeles",
+        "full": "Los Angeles",
+        "last": null
+      },
+      "player_id": 100024,
+      "player_key": "359.p.100024",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 190.4
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/la-chargers/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 8
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100025",
+      "editorial_team_abbr": "SF",
+      "editorial_team_full_name": "San Francisco 49ers",
+      "editorial_team_key": "nfl.t.25",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/san-francisco/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sfo.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sfo.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "San Francisco",
+        "ascii_last": null,
+        "first": "San Francisco",
+        "full": "San Francisco",
+        "last": null
+      },
+      "player_id": 100025,
+      "player_key": "359.p.100025",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 81.3
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/san-francisco/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 5
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100026",
+      "editorial_team_abbr": "Sea",
+      "editorial_team_full_name": "Seattle Seahawks",
+      "editorial_team_key": "nfl.t.26",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/seattle/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sea.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/sea.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Seattle",
+        "ascii_last": null,
+        "first": "Seattle",
+        "full": "Seattle",
+        "last": null
+      },
+      "player_id": 100026,
+      "player_key": "359.p.100026",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 196.64
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/seattle/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 6
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100027",
+      "editorial_team_abbr": "TB",
+      "editorial_team_full_name": "Tampa Bay Buccaneers",
+      "editorial_team_key": "nfl.t.27",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/tampa-bay/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/tam.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/tam.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Tampa Bay",
+        "ascii_last": null,
+        "first": "Tampa Bay",
+        "full": "Tampa Bay",
+        "last": null
+      },
+      "player_id": 100027,
+      "player_key": "359.p.100027",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 180.46
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/tampa-bay/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 9
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100028",
+      "editorial_team_abbr": "Was",
+      "editorial_team_full_name": "Washington Commanders",
+      "editorial_team_key": "nfl.t.28",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/washington/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/cv/apiv2/default/nfl/20200909/50x50/cr/washington.gif"
+      },
+      "image_url": "https://s.yimg.com/cv/apiv2/default/nfl/20200909/50x50/cr/washington.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Washington",
+        "ascii_last": null,
+        "first": "Washington",
+        "full": "Washington",
+        "last": null
+      },
+      "player_id": 100028,
+      "player_key": "359.p.100028",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 147.78
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/washington/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 7
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100029",
+      "editorial_team_abbr": "Car",
+      "editorial_team_full_name": "Carolina Panthers",
+      "editorial_team_key": "nfl.t.29",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/carolina/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/cv/ip/ap/default/120210/50x50w_car_1.gif"
+      },
+      "image_url": "https://s.yimg.com/cv/ip/ap/default/120210/50x50w_car_1.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Carolina",
+        "ascii_last": null,
+        "first": "Carolina",
+        "full": "Carolina",
+        "last": null
+      },
+      "player_id": 100029,
+      "player_key": "359.p.100029",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 194.1
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/carolina/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 5
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100030",
+      "editorial_team_abbr": "Jax",
+      "editorial_team_full_name": "Jacksonville Jaguars",
+      "editorial_team_key": "nfl.t.30",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/jacksonville/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/xe/ipt/50x50w.3.gif"
+      },
+      "image_url": "https://s.yimg.com/xe/ipt/50x50w.3.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Jacksonville",
+        "ascii_last": null,
+        "first": "Jacksonville",
+        "full": "Jacksonville",
+        "last": null
+      },
+      "player_id": 100030,
+      "player_key": "359.p.100030",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 173.02
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/jacksonville/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 8
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100033",
+      "editorial_team_abbr": "Bal",
+      "editorial_team_full_name": "Baltimore Ravens",
+      "editorial_team_key": "nfl.t.33",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/baltimore/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/bal_2.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/bal_2.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Baltimore",
+        "ascii_last": null,
+        "first": "Baltimore",
+        "full": "Baltimore",
+        "last": null
+      },
+      "player_id": 100033,
+      "player_key": "359.p.100033",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 193.64
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/baltimore/"
+    }
+  },
+  {
+    "player": {
+      "bye_weeks": {
+        "week": 9
+      },
+      "display_position": "DEF",
+      "editorial_player_key": "nfl.p.100034",
+      "editorial_team_abbr": "Hou",
+      "editorial_team_full_name": "Houston Texans",
+      "editorial_team_key": "nfl.t.34",
+      "editorial_team_url": "https://sports.yahoo.com/nfl/teams/houston/",
+      "eligible_positions": [
+        "DEF"
+      ],
+      "eligible_positions_to_add": null,
+      "headshot": {
+        "size": "small",
+        "url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/hou.gif"
+      },
+      "image_url": "https://s.yimg.com/lq/i/us/sp/v/nfl/teams/1/50x50w/hou.gif",
+      "is_keeper": {
+        "status": false,
+        "cost": false,
+        "kept": false
+      },
+      "is_undroppable": 0,
+      "name": {
+        "ascii_first": "Houston",
+        "ascii_last": null,
+        "first": "Houston",
+        "full": "Houston",
+        "last": null
+      },
+      "player_id": 100034,
+      "player_key": "359.p.100034",
+      "player_points": {
+        "coverage_type": "season",
+        "season": 2016,
+        "total": 179.68
+      },
+      "player_stats": {
+        "coverage_type": "season",
+        "season": 2016,
+        "stats": [
+          {
+            "stat": {
+              "stat_id": 31,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 32,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 33,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 34,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 35,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 36,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 37,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 48,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 49,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 68,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 69,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 50,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 51,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 52,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 53,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 54,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 55,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 56,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 70,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 71,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 72,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 73,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 74,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 75,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 76,
+              "value": 0.0
+            }
+          },
+          {
+            "stat": {
+              "stat_id": 82,
+              "value": 0.0
+            }
+          }
+        ]
+      },
+      "position_type": "DT",
+      "primary_position": "DEF",
+      "uniform_number": false,
+      "url": "https://sports.yahoo.com/nfl/teams/houston/"
+    }
+  }
+]
